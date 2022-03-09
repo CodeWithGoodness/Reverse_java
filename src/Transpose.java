@@ -26,7 +26,7 @@ public class Transpose {
             }
                 System.out.println();
         }
-        //Display transposed array :)
+        //Display transposed array
         System.out.println("The transposed matrix is: ");
         for (int j= 0; j< r; j++) {
             for (int i= 0; i< c; i++) {
@@ -42,5 +42,6 @@ public class Transpose {
 }
 
 
-
-
+//git add . -> To stage the files
+//git commit -m "" -->  to commit the code
+//git  push origin +main --> To push the code to github
