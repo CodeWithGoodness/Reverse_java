@@ -44,4 +44,4 @@ public class Transpose {
 
 //git add . -> To stage the files
 //git commit -m "" -->  to commit the code
-//git  push origin +main --> To push the code to github
+//git  push --> To push the code to github
