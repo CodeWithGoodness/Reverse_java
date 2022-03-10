@@ -13,7 +13,7 @@ public class Reverse{
         System.out.println(reversed_array);
         //checking if it's a palindrome
      if(word.equals(reversed_array))   {
-         System.out.println("The word is a palindrome");
+         System.out.println("The word is a palindrome");//comparing
      }
      else{
      System.out.println("Not a palindrome");}
